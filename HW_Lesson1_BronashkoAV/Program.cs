@@ -11,7 +11,6 @@ namespace HW_Lesson1_BronashkoAV
 
         static Person pers = new Person();
         static bool flagAnketa = false;
-        //comment
         static void Main(string[] args)
         {
             Console.WriteLine("Добро пожаловать в программу!");
